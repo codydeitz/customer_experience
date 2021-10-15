@@ -1,0 +1,9 @@
+
+var(--tonk-primary-purple, #4640C0);
+var(--tonk-secondary-purple, #605CE4);
+
+//Home page
+.site-sidebar 
+{
+    background-color: 4640C0;
+}

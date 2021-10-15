@@ -1,0 +1,468 @@
+[14/Oct/2021 16:02:41 America/Detroit] [Info] ############################################################
+[14/Oct/2021 16:02:41 America/Detroit] [Info] # Output Factory initiated (html5)
+[14/Oct/2021 16:02:41 America/Detroit] [Info] # Building output for: Tonkean Documentation Portal
+[14/Oct/2021 16:02:41 America/Detroit] [Info] # URL /document/edit/317
+[14/Oct/2021 16:02:41 America/Detroit] [Info] # User: Cody Deitz
+[14/Oct/2021 16:02:41 America/Detroit] [Info] # Time: Thu, 14 Oct 2021 16:02:41 -0400
+[14/Oct/2021 16:02:41 America/Detroit] [Info] # Server: lisbon
+[14/Oct/2021 16:02:41 America/Detroit] [Info] ############################################################
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Group: custom
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Type: html5
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Transformation: /var/www/ccms/usr/tonkean/xsl/custom/layout-391.xsl
+[14/Oct/2021 16:02:41 America/Detroit] [Info] File found: /var/www/ccms/usr/tonkean/xsl/custom/layout-391.xsl
+[14/Oct/2021 16:02:41 America/Detroit] [Info] ############################################################
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Building output for: html5
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Using stylesheet: /var/www/ccms/usr/tonkean/xsl/custom/layout-391.xsl
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Parameters for this build: (array) []
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Environment variables for this build: (array) []
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Building output for languages: (array) ["en"]
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Building multilang: no
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Building preview: no
+[14/Oct/2021 16:02:41 America/Detroit] [Info] ############################################################
+[14/Oct/2021 16:02:41 America/Detroit] [Info] Using build directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5
+[14/Oct/2021 16:02:42 America/Detroit] [Info] -- Generating source files
+[14/Oct/2021 16:02:42 America/Detroit] [Info] -- Propagating taxonomies: false
+[14/Oct/2021 16:02:42 America/Detroit] [Info] -- Source files have been generated
+[14/Oct/2021 16:02:42 America/Detroit] [Info] -- Publication has no unresolved dependencies.
+[14/Oct/2021 16:02:42 America/Detroit] [Info] -- Generating source files complete.
+[14/Oct/2021 16:02:43 America/Detroit] [Info] Localizing: publication-317.xml
+[14/Oct/2021 16:02:43 America/Detroit] [Info] Language: en
+[14/Oct/2021 16:02:43 America/Detroit] [Info] Variable sets found: 0
+[14/Oct/2021 16:02:44 America/Detroit] [Info] Inserting image links.
+[14/Oct/2021 16:02:44 America/Detroit] [Info] Found 2 image(s).
+[14/Oct/2021 16:02:44 America/Detroit] [Info] Found image 'log_in_screen.png'
+[14/Oct/2021 16:02:44 America/Detroit] [Info] Found image 'tonkean_boards.png'
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Profiling parameters: (array) []
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Profiling customisation: /var/www/ccms/usr/tonkean/xsl/profile.xsl (not found)
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Transformation: publication-317--en.org.xml -> publication-317--en.xml [profile.xsl]
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Transformation: publication-317--en.xml -> publication-317--en.xml [internal-xref.xsl]
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Created copy: /var/www/ccms/usr/tonkean/xsl/custom/layout-391.xsl -> /var/www/ccms/usr/tonkean/xsl/custom/61688ce6899d1.xsl
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.page.xsl -> /var/www/ccms/usr/tonkean/xsl/custom/61688ce6899d1.page.xsl
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.index.xsl -> /var/www/ccms/usr/tonkean/xsl/custom/61688ce6899d1.index.xsl
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.toc.xsl -> /var/www/ccms/usr/tonkean/xsl/custom/61688ce6899d1.toc.xsl
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.page.xsl -> /var/www/ccms/usr/tonkean/xsl/custom/61688ce6899d1.page.xsl
+[14/Oct/2021 16:02:46 America/Detroit] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.index.xsl -> /var/www/ccms/usr/tonkean/xsl/custom/61688ce6899d1.index.xsl
+[14/Oct/2021 16:02:47 America/Detroit] [Info] Image copied: en/image/161688ce4ee75a.png
+[14/Oct/2021 16:02:47 America/Detroit] [Info] Image copied: en/image/161688ce4f0f9d.png
+[14-Oct-2021 16:02:47 America/Detroit] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*
+[14-Oct-2021 16:02:47 America/Detroit] Filename: css/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-3.0.2.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-theme-3.0.2.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-theme.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-theme.min.css.map'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap.min.css.map'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'content-theme1.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'content-theme2.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'docbook.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'font-awesome.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'graphical-lists.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearch.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearchpage.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'mathml.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto.font.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'rwd-table.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'sm-core-css.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'sm-simple.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-api-responsive.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-api.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-common.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-index-page.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-modern-tables.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-print.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-responsive.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-revealjs-slides.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-single-page.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme0.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme1-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme1.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme2-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme2.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3b-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3b.css'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: css/image/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'breadcrumb-seperator.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'caution.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-blue-inverted.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-blue.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-white.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-white.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'important.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'note.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal1-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal2a-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal2b-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal2c-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'subheader-bg.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'warning.png'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: css/image/callouts/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '1.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '1.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '1.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '10.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '10.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '10.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '11.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '11.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '11.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '12.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '12.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '12.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '13.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '13.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '13.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '14.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '14.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '14.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '15.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '15.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '15.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '16.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '17.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '18.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '19.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '2.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '2.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '2.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '20.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '21.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '22.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '23.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '24.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '25.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '26.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '27.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '28.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '29.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '3.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '3.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '3.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '30.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '4.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '4.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '4.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '5.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '5.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '5.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '6.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '6.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '6.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '7.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '7.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '7.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '8.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '8.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '8.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '9.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '9.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '9.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: js/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'ajax-loading.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'anchorlinks.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'checklist.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'clipboard.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'cookie-consent.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'create-toc.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'csh.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fuse.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'hilitor.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-ajax-hp.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-ajax.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-mp-common.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-portal.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearch.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearchpage.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.fuse.search.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-1.10.2.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-1.10.2.min.map'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-migrate-3.0.1.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.event.move.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.event.swipe.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.mark.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.paligocode.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.smartmenus.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.sticky.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'lunr-single-lang.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'lunr.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'materialize.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'mspace.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'purl.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'respond.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'responsive-tables.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'rwd-table.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'script-api.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'script-revealjs-slides.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'script.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'search.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'updateurl.js'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: js/jquery-3/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-3.4.1.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-3.5.1.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-3.6.0.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: fonts/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'FontAwesome.otf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[14-Oct-2021 16:02:47 America/Detroit] Filename: css/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-3.0.2.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-theme-3.0.2.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-theme.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap-theme.min.css.map'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap.min.css.map'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'content-theme1.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'content-theme2.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'docbook.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'font-awesome.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'graphical-lists.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearch.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearchpage.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'mathml.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto.font.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'rwd-table.min.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'sm-core-css.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'sm-simple.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-api-responsive.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-api.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-common.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-index-page.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-modern-tables.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-print.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-responsive.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-revealjs-slides.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style-single-page.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'style.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme0.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme1-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme1.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme2-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme2.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3b-colors.css'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'theme3b.css'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: css/image/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'breadcrumb-seperator.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'caution.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-blue-inverted.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-blue.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-white.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo-white.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'corporate-logo.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'important.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'note.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal1-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal2a-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal2b-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'portal2c-bg.jpg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'subheader-bg.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'warning.png'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: css/image/callouts/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '1.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '1.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '1.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '10.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '10.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '10.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '11.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '11.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '11.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '12.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '12.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '12.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '13.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '13.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '13.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '14.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '14.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '14.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '15.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '15.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '15.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '16.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '17.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '18.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '19.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '2.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '2.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '2.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '20.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '21.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '22.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '23.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '24.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '25.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '26.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '27.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '28.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '29.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '3.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '3.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '3.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '30.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '4.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '4.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '4.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '5.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '5.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '5.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '6.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '6.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '6.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '7.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '7.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '7.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '8.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '8.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '8.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '9.gif'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '9.png'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '9.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: js/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'ajax-loading.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'anchorlinks.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'bootstrap.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'checklist.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'clipboard.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'cookie-consent.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'create-toc.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'csh.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fuse.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'hilitor.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-ajax-hp.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-ajax.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-mp-common.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2-portal.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5-2.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearch.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.algoliasearchpage.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'html5.fuse.search.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-1.10.2.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-1.10.2.min.map'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-migrate-3.0.1.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.event.move.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.event.swipe.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.mark.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.paligocode.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.smartmenus.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'jquery.sticky.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'lunr-single-lang.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'lunr.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'materialize.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'mspace.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'purl.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'respond.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'responsive-tables.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'rwd-table.min.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'script-api.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'script-revealjs-slides.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'script.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'search.js'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'updateurl.js'
+[14-Oct-2021 16:02:47 America/Detroit] Filename: fonts/*
+[14-Oct-2021 16:02:47 America/Detroit] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Oct-2021 16:02:47 America/Detroit] Target directory: /paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'FontAwesome.otf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'fontawesome-webfont.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'glyphicons-halflings-regular.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '/var/www/ccms/usr/tonkean/xsl/custom/assets/layout-391/6168878ec6548.svg' to '/paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out/css/image/corporate-logo.svg'
+[14-Oct-2021 16:02:47 America/Detroit] Copy file '/var/www/ccms/application/lib/docbook/xsl/html5/css/image/corporate-logo-white.svg' to '/paligo/tmp/tonkean/production-61688cdfec0e31.74291080/317-Tonkean_Documentation_Portal-html5/out/css/image/portal-logo.svg'
+[14-Oct-2021 16:02:48 America/Detroit] Post build HTML5
+[14/Oct/2021 16:02:48 America/Detroit] [Info] Transformation: index-en.html -> toc-en.html [61688ce6899d1.toc.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: what-is-tonkean-.html -> what-is-tonkean-.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: what-are-modules-.html -> what-are-modules-.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: what-are-business-reports-.html -> what-are-business-reports-.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: build-your-first-solution.html -> build-your-first-solution.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: navigate-tonkean.html -> navigate-tonkean.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: quick-start-guide.html -> quick-start-guide.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: getting-started.html -> getting-started.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: maker-playbook.html -> maker-playbook.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: admin-playbook.html -> admin-playbook.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: business-reports-and-metrics.html -> business-reports-and-metrics.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: runtime-jobs.html -> runtime-jobs.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: release-notes.html -> release-notes.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: resources.html -> resources.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: index-en.html -> index-en.html [61688ce6899d1.page.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Generating index page.
+[14/Oct/2021 16:02:49 America/Detroit] [Info] Transformation: index.manifest -> index.html [61688ce6899d1.index.xsl]
+[14/Oct/2021 16:02:49 America/Detroit] [Info] # Took 8.572804 seconds to render.
